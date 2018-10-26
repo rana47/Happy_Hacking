@@ -1,5 +1,7 @@
 ﻿# Contributors
 - [Sudarshan Kamath](https://github.com/sudz123)
+
+- [Jayesh Rana](https://github.com/rana47)
   - [LinkedIn](https://www.linkedin.com/in/sudarshankamath/)
 - [Diptanshu Agarwal](https://github.com/diptanshu-sopho)
   - [LinkedIn](https://www.linkedin.com/in/diptanshu-agarwal/)
